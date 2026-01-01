@@ -1,8 +1,6 @@
 The finished Tag Emulator serves as a core component for battery-free NFC lock solutions. 
 
-Leveraging passive NFC energy harvesting technology, it supports secure, wire-free unlocking operations, 
-
-making it ideal for low-power, maintenance-free access control scenarios.
+Leveraging passive NFC energy harvesting technology, it supports secure, wire-free unlocking operations, making it ideal for low-power, maintenance-free access control scenarios.
 
 Two publicly available analogous product solutions have been discovered for reference:
 
@@ -14,12 +12,9 @@ The proposed approach employs a combination of a dual-interface NFC chip and a l
 
 This solution boasts high integration, implementing all functions on a single chip. Unfortunately, the chip in question has been discontinued.
 
-This solution leverages the CW32L010 to implement NFC communication, eliminating the need for a dedicated NFC chip and resulting in extremely low costs. 
 
 
-Demo Video:
 
-
-https://github.com/user-attachments/assets/8ab8a045-1d73-4249-b2c9-31f737e09b69
+The solution leverages the CW32L010 to implement NFC communication, eliminating the need for a dedicated NFC chip and resulting in extremely low costs. 
 
 
