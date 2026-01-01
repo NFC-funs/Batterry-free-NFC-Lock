@@ -17,4 +17,9 @@ This solution boasts high integration, implementing all functions on a single ch
 
 The solution leverages the CW32L010 to implement NFC communication, eliminating the need for a dedicated NFC chip and resulting in extremely low costs. 
 
+Demo video:
+
+
+https://github.com/user-attachments/assets/3273169b-6742-4c6d-8cfa-0388c2b744c6
+
 
