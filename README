@@ -17,3 +17,5 @@ This solution boasts high integration, implementing all functions on a single ch
 This solution leverages the CW32L010 to implement NFC communication, eliminating the need for a dedicated NFC chip and resulting in extremely low costs. 
 
 
+Demo Video:
+https://github.com/NFC-funs/Batterry-free-NFC-Lock/raw/refs/heads/main/Video/NFC-Lock-20260101.mp4
